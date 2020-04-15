@@ -39,4 +39,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the bot? found bugs? you can report them on our [Discord Server](https://discord.gg/enA6QhS)
+you can also suggest us features to the bot and ask for help!
+use those commands:
+p!bug-report
+p!bot-suggest
+p!bot-help
