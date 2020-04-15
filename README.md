@@ -1,8 +1,8 @@
 ## Welcome to ProtPremium's Documents
 
-You can use the [editor on GitHub](https://github.com/ProtPremium/ProtPremium/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can view ProtPremium's commands here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To invite ProtPremium to your server [Click Here(https://discordapp.com/oauth2/authorizeclient_id=688451746657599540&scope=bot&permissions=2146958847)
 
 ### Markdown
 
