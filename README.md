@@ -40,6 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with the bot? found bugs? you can report them on our [Discord Server](https://discord.gg/enA6QhS)
+
 you can also suggest us features to the bot and ask for help!
 use those commands:
 p!bug-report
