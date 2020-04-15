@@ -8,7 +8,7 @@ To invite ProtPremium to your server [Click Here](https://discordapp.com/oauth2/
 
 
 ```markdown
-Moderation Commands
+### Moderation Commands
 # Commands must have channel and role to enable them. 
 
 p!warn <user> <reason>    
