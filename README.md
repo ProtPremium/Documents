@@ -11,14 +11,14 @@ To invite ProtPremium to your server [Click Here](https://discordapp.com/oauth2/
 Moderation Commands
 # Commands must have channel and role to enable them. 
 
-# p!warn <user> <reason>    
-## Required #warns channel.
+p!warn <user> <reason>    
+# Required #warns channel.
 
-# p!mute <user> <time> <reason>   
-## Required #mutes channel and Muted role.
+p!mute <user> <time> <reason>   
+# Required #mutes channel and Muted role.
  
-# p!report <user> <reason>    
-## Required #reports channel.
+p!report <user> <reason>    
+# Required #reports channel.
  
 
 - Bulleted
