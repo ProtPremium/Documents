@@ -2,7 +2,7 @@
 
 You can view ProtPremium's commands here
 
-To invite ProtPremium to your server [Click Here(https://discordapp.com/oauth2/authorizeclient_id=688451746657599540&scope=bot&permissions=2146958847)
+To invite ProtPremium to your server [Click Here](https://discordapp.com/oauth2/authorizeclient_id=688451746657599540&scope=bot&permissions=2146958847)
 
 ### Markdown
 
