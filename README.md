@@ -50,11 +50,11 @@ p!loglist
 
 ### Creators and Credits (discord names)
 
-CafePremium#3328 - Created the project, Developed the project(docs, bot) and Created an image.
-Shalev#7883 - Developing the project(bot).
-Derpy#6666 - Helped developing the project(bot).
-ζ͜͡Ronen#4695 - Helped developing the project(bot).
-ofek#5295 - Helped developing the project(docs).
+- CafePremium#3328 - Created the project, Developed the project(docs, bot) and Created an image.
+- Shalev#7883 - Developing the project(bot).
+- Derpy#6666 - Helped developing the project(bot).
+- ζ͜͡Ronen#4695 - Helped developing the project(bot).
+- ofek#5295 - Helped developing the project(docs).
 
 ### Support or Contact
 
