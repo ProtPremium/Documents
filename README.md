@@ -22,6 +22,13 @@ p!unmute <user> <reason>
  
 p!report <user> <reason>    
 # Required #reports channel.
+```
+
+```markdown
+Fun Commands
+
+# Currently we don't have any games command.
+# The category will update soon.
  
 ```
 
