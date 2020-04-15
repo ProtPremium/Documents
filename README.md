@@ -48,9 +48,13 @@ p!loglist
 ```
 
 
-### Jekyll Themes
+### Creators and Credits (discord names)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ProtPremium/ProtPremium/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+CafePremium#3328 - Created the project, Developed the project(docs, bot) and Created an image.
+Shalev#7883 - Developing the project(bot).
+Derpy#6666 - Helped developing the project(bot).
+ζ͜͡Ronen#4695 - Helped developing the project(bot).
+ofek#5295 - Helped developing the project(docs).
 
 ### Support or Contact
 
