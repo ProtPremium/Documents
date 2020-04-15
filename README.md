@@ -22,6 +22,9 @@ p!unmute <user> <reason>
  
 p!report <user> <reason>    
 # Required #reports channel.
+ 
+p!adminhelp
+# view admin commands
 ```
 
 ```markdown
@@ -29,6 +32,18 @@ Fun Commands
 
 # Currently we don't have any games command.
 # The category will update soon.
+ 
+```
+
+```markdown
+Update Commands
+# Our bot have weekly-updates, to stay updated you can view on our discord server or write some commands!
+
+p!checklog
+# check the latest update to the bot
+
+p!loglist
+# check all logs list, you can view from there more log commands!
  
 ```
 
@@ -42,7 +57,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with the bot? found bugs? you can report them on our [Discord Server](https://discord.gg/enA6QhS)
 
 you can also suggest us features to the bot and ask for help!
-use those commands:
-p!bug-report
-p!bot-suggest
-p!bot-help
+use those commands: p!bug-report, p!bot-suggest, p!bot-help
