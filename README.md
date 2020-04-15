@@ -21,7 +21,7 @@ p!unmute <user> <reason>
 # Required #mutes channel and Muted role. (won't work if user doesn't have mute.)
  
 p!report <user> <reason>    
-# Required #reports channel.```
+# Required #reports channel.
  
 ```
 
