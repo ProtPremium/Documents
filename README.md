@@ -1,19 +1,20 @@
-## Welcome to ProtPremium's Documents
+## ProtPremium's Documents
 
 You can view ProtPremium's commands here
 
 To invite ProtPremium to your server [Click Here](https://discordapp.com/oauth2/authorizeclient_id=688451746657599540&scope=bot&permissions=2146958847)
 
-### Markdown
+### Command list:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Moderation Commands
+# Commands must have channel and role to enable them. 
 
-# Header 1
-## Header 2
-### Header 3
+// p!warn <@user> <reason>    # Required #mutes channel and @Muted role.
+// p!mute <@user> <time[1m/1h/1d]> <reason>   # Required #warns channel.
+// p!report <@user> <reason>    # Required #reports channel.
+ 
 
 - Bulleted
 - List
